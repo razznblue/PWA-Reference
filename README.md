@@ -5,5 +5,5 @@
  - You can make any web app a PWA.
 
 ## How to run locally
-  1) clone the repo and run ```cd frontendmaster-pwa```
+  1) clone the repo and run ```cd pwa-app-example```
   2) Then run ```npx serve .``` which will run the app on localhost:3000
